@@ -1,4 +1,4 @@
-Projet AirWatcher : B3122 & B3132
+Projet AirWatcher :
 
 Compilation du projet : make
 Exécution du projet : ./Main
